@@ -30,10 +30,3 @@ team_dragons.show_team_result
 team_baystars.show_team_result
 team_carp.show_team_result
 team_swallows.show_team_result
-
-p team_giants
-p team_tigers
-p team_dragons
-p team_baystars
-p team_carp
-p team_swallows
